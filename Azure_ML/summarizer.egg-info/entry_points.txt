@@ -1,0 +1,2 @@
+[console_scripts]
+summarizer = main:main
